@@ -1,4 +1,4 @@
-package com.area.helloworld;
+package com.area.hello.world;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

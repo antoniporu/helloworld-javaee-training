@@ -1,4 +1,4 @@
-package com.area.helloworld.resources;
+package com.area.hello.world.resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
